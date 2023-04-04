@@ -1,3 +1,5 @@
+![MasterHead](https://i.pinimg.com/originals/71/ee/32/71ee32577432648f9e45fbd63b2cf261.jpg)
+
 <h1 align="center">Hi 👋, I'm Dmitrii Kushnerev</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
